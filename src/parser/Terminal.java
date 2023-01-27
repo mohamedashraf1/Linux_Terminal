@@ -20,7 +20,7 @@ import java.time.LocalDateTime;
  * @author Elliot
  */
 public class Terminal{
-    String defaultDir = "F:\\college\\third year\\first term\\Operating Systems-1\\assignments\\A1_IT_20170221_20170223_20170255\\Parser";
+    String defaultDir = "D:\\College\\3rd year\\first term\\Operating Systems-1\\assignments\\assignment 1\\Linux_Terminal";
     String wd = defaultDir;
     public void cd(){
         wd = defaultDir;
